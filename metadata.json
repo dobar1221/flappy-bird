@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Flappy Bird Mobile Pro",
+  "description": "A high-performance, mobile-optimized Flappy Bird clone featuring customizable bird colors, themes, sound effects, and voice-controlled jumping powered by Gemini AI transcription.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
